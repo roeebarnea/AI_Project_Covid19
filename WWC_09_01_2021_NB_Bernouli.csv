@@ -1,0 +1,16 @@
+,dataSetName + alg,success rate
+0,AVG_NBMulti,51.887
+1,NoNulls_NBMulti,54.838
+2,NoNulls_Normalized,50.669999999999995
+3,AVG_Normalized,53.562
+4,WWC_09_01_2021_no_nulls_AVG_4_classes.csv,48.407
+5,WWC_09_01_2021_no_nulls_AVG_16_classes.csv,53.68699999999999
+6,WWC_09_01_2021_no_nulls_AVG_256_classes.csv,54.434000000000005
+7,WWC_09_01_2021_no_nulls_AVG_512_classes.csv,54.113
+8,WWC_09_01_2021_no_nulls_AVG_1000_classes.csv,54.245999999999995
+9,WWC_09_01_2021_no_nulls_AVG_5000_classes.csv,54.272000000000006
+10,WWC_09_01_2021_no_nulls_AVG_8000_classes.csv,54.568999999999996
+11,WWC_09_01_2021_no_nulls_AVG_10000_classes.csv,54.009
+12,WWC_09_01_2021_no_nulls_AVG_40000_classes.csv,54.42299999999999
+13,WWC_09_01_2021_no_nulls_AVG_80000_classes.csv,54.18900000000001
+14,WWC_09_01_2021_no_nulls_AVG_100000_classes.csv,54.24399999999999
